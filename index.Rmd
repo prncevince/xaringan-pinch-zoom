@@ -10,7 +10,7 @@ output:
       highlightLines: true
       countIncrementalSlides: false
       navigation:
-        scroll: false
+        scroll: true
         touch: false
 ---
 
