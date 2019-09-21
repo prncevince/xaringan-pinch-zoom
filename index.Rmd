@@ -1,0 +1,39 @@
+---
+title: "Pinch Me!"
+subtitle: "⚔<br/>with xaringan"
+author: ""
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      navigation:
+        scroll: false
+        touch: false
+---
+
+class: center middle
+
+# Pinch Me!
+
+--
+
+## Pinch Me Again! 
+
+--
+
+### And Again
+
+---
+
+class: center middle
+
+<h1 style="color: red;">And Again<h1>
+
+---
+
+class: center middle
+
+# Bye
