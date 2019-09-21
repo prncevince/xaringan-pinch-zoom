@@ -10,8 +10,8 @@ output:
       highlightLines: true
       countIncrementalSlides: false
       navigation:
-        scroll: true
-        touch: false
+        scroll: false
+        touch: true
 ---
 
 class: center middle
